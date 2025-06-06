@@ -2,6 +2,7 @@
     "name": "cortezvini97/symfony-orion-project",
     "license": "proprietary",
     "minimum-stability": "stable",
+    "type": "project",
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
